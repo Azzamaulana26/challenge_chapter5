@@ -22,7 +22,7 @@ info:
     5. Login (Masuk):
 
   contact:
-    email: dtekchannel02@gmail.com
+    email: azzamaulana26@gmail.com
   version: 1.0.11
 servers:
   - url: http://localhost:3000/api/v1
